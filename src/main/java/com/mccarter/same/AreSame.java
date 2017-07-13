@@ -2,6 +2,9 @@ package com.mccarter.same;
 
 import java.util.Arrays;
 
+/**
+ * https://www.codewars.com/kata/550498447451fbbd7600041c
+ */
 public class AreSame {
 
     public static boolean comp(int[] a, int[] b) {
